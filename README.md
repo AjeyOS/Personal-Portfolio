@@ -2,9 +2,8 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://ajey-portfolio-zeta-gray-80.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/ajeyos/personal-portfolio?style=social)](https://github.com/ajeyos/personal-portfolio)
 
-Modern portfolio showcasing 5+ years of frontend development experience with React, Next.js, and TypeScript. Features dark/light mode, animations, and responsive design.
+Modern portfolio showcasing 5+ years of frontend development experience with React, Next.js, and TypeScript. Features light mode, animations, and responsive design.
 
 ## ✨ Features
 
