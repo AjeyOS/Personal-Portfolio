@@ -40,11 +40,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Ajay Kumar - Senior Software Engineer',
     description: '5+ years experience in building scalable web applications with React, Angular, and TypeScript',
-    url: 'https://yourportfolio.com',
+    url: 'https://ajey-portfolio-zeta-gray-80.vercel.app',
     siteName: 'Ajay Kumar Portfolio',
     images: [
       {
-        url: 'https://yourportfolio.com/og-image.png',
+        url: 'https://ajey-portfolio-zeta-gray-80.vercel.app/#about',
         width: 1200,
         height: 630,
         alt: 'Ajay Kumar - Senior Software Engineer',
@@ -64,15 +64,15 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  verification: {
-    google: 'your-google-verification-code',
-    yandex: 'your-yandex-verification-code',
-  },
+  // verification: {
+  //   google: 'your-google-verification-code',
+  //   yandex: 'your-yandex-verification-code',
+  // },
   alternates: {
-    canonical: 'https://yourportfolio.com',
+    canonical: 'https://ajey-portfolio-zeta-gray-80.vercel.app/',
   },
   category: 'technology',
-  metadataBase: new URL('https://yourportfolio.com'),
+  metadataBase: new URL('https://ajey-portfolio-zeta-gray-80.vercel.app/'),
 };
 
 export default function RootLayout({
