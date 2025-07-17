@@ -38,7 +38,7 @@ export const experiences: Experience[] = [
       "Automated CI/CD pipelines using Azure DevOps, reducing release cycle times by 35% through integrated testing and deployment workflows",
       "Collaborated in Agile sprints with cross-functional teams (QA, Product, Backend), improving bug resolution turnaround by 50% using structured task tracking"
     ],
-    technologies: ["Angular 17", "TypeScript", "Kendo UI", "Azure DevOps", "RESTful APIs", "CI/CD"]
+    technologies: ["React.js", "Angular 17", "TypeScript", "Kendo UI", "Azure DevOps", "RESTful APIs", "CI/CD"]
   },
   {
     company: "Smart Energy Water",
@@ -52,7 +52,7 @@ export const experiences: Experience[] = [
       "Delivered new product features and UI enhancements with optimized rendering performance, improving functionality across all devices",
       "Collaborated with cross-functional teams in an Agile environment, managing sprints and issue tracking through Jira for timely delivery"
     ],
-    technologies: ["React.js", "TypeScript", "Redux", "Material UI", "Apache ECharts", "RESTful APIs", "Jira"]
+    technologies: ["React.js", "TypeScript", "Redux", "Material UI", "CI/CD", "Apache ECharts", "RESTful APIs", "Jira"]
   },
   {
     company: "Chetu Inc.",
@@ -66,7 +66,7 @@ export const experiences: Experience[] = [
       "Integrated Firebase for real-time data storage, player state synchronization, and backendless event logging for smooth gameplay experience",
       "Implemented Redux Thunk middleware for asynchronous data flows, optimizing complex form logic and session management"
     ],
-    technologies: ["React.js", "Firebase", "Redux", "Material UI", "WebRTC", "Socket.io", "Redux Thunk"]
+    technologies: ["React.js", "Firebase", "Redux", "React Bootstrap", "Redux Thunk"]
   },
   {
     company: "Tenali Education Academy (GharPeShiksha)",
@@ -79,7 +79,7 @@ export const experiences: Experience[] = [
       "Engineered a responsive tutor discovery website using HTML, CSS, JavaScript, Ajax, and jQuery for subject and availability-based search",
       "Seamlessly integrated RESTful APIs across all applications in collaboration with backend developers, ensuring real-time data synchronization"
     ],
-    technologies: ["React.js", "Material UI", "Context API", "WebRTC", "Socket.io", "jQuery", "Ajax"]
+    technologies: ["React.js", "Redux", "Material UI", "Context API", "WebRTC", "Socket.io", "JavaScript", "jQuery", "Bootstrap", "Ajax"]
   }
 ];
 
@@ -95,18 +95,18 @@ export const skills: Skill[] = [
     icon: <Database className="w-6 h-6" />
   },
   {
-    category: "Cloud & DevOps",
-    items: ["Azure DevOps", "CI/CD", "Git", "Jira", "Azure Boards", "Postman", "Swagger", "Visual Studio Code"],
+    category: "Cloud & Developer Tools",
+    items: ["Azure DevOps", "CI/CD", "Git", "Jira", "Postman", "Swagger", "Webpack", "Vite", "Visual Studio Code"],
     icon: <Cloud className="w-6 h-6" />
   },
   {
-    category: "Real-time & Communication",
-    items: ["WebRTC", "Socket.io", "WebSockets", "Apache ECharts", "Google Charts", "Firebase Realtime DB"],
+    category: "Real-time & Data Visualization",
+    items: ["WebSockets", "WebRTC", "Socket.io", "WebSockets", "Apache ECharts", "Google Charts", "Firebase Realtime DB"],
     icon: <Settings className="w-6 h-6" />
   },
   {
     category: "Testing & Mobile",
-    items: ["Jest", "Unit Testing", "React Native", "Webpack", "GitHub Copilot"],
+    items: ["Jest", "Unit Testing", "React Native"],
     icon: <TestTube className="w-6 h-6" />
   }
 ];
