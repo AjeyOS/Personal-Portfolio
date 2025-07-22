@@ -64,10 +64,10 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  // verification: {
-  //   google: 'your-google-verification-code',
+   verification: {
+   google: '5C2wTrAgEaSK_S2LeQgMGTbhV1p2GLp0zPWuhbzeUPc',
   //   yandex: 'your-yandex-verification-code',
-  // },
+   },
   alternates: {
     canonical: 'https://codedbyajey.vercel.app/',
   },
